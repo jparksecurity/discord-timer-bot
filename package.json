@@ -1,0 +1,10 @@
+{
+  "name": "discord-timer-bot",
+  "version": "0.1.0",
+  "description": "timer bot for discord",
+  "main": "index.js",
+  "repository": "https://github.com/jparksecurity/discord-timer-bot",
+  "author": "John J. Park",
+  "license": "MIT",
+  "private": false
+}

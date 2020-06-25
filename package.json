@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "lint": "eslint . --ext .js,.ts --ignore-pattern .gitignore",
+    "lint": "eslint . --ext .ts --ignore-pattern .gitignore",
     "build": "tsc index.ts",
     "start": "yarn build && node --require dotenv/config ."
   },
